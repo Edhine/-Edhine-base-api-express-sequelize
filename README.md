@@ -13,12 +13,12 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ├── app.js
 ├── config
 |  ├── ambiente.js
-|  ├── bd.json
 |  ├── config.js
 |  └── globales.js
 ├── controllers
 |  └── prueba.js
 ├── database
+|  ├── bd.json
 |  └── sequelize.js
 ├── LICENSE.md
 ├── models
