@@ -38,8 +38,12 @@ npm install
 
 ### Post-Instalación ⚙️
 
-Modificar los parametros de la base de datos antes de iniciar.
+Modificar los parametros de la base de datos antes de iniciar. <br />
 **Ruta**: *database/bd.json*
+
+**Dialect**
+El dialecto definido para esta base es: *postgres*. <br />
+Para cambiar el dialecto: [aquí](https://sequelize.org/master/manual/getting-started.html)
 
 ```
 {
@@ -48,7 +52,7 @@ Modificar los parametros de la base de datos antes de iniciar.
     "password": "password",
     "database": "database",
     "host": "host",
-    "dialect": "dialect",
+    "dialect": "postgres",
     "port": "port",
     "define": {
       "timestamps": false
@@ -59,7 +63,7 @@ Modificar los parametros de la base de datos antes de iniciar.
     "password": "password",
     "database": "database",
     "host": "host",
-    "dialect": "dialect",
+    "dialect": "postgres",
     "port": "port",
     "define": {
       "timestamps": false
@@ -70,7 +74,7 @@ Modificar los parametros de la base de datos antes de iniciar.
     "password": "password",
     "database": "database",
     "host": "host",
-    "dialect": "dialect",
+    "dialect": "postgres",
     "port": "port",
     "define": {
       "timestamps": false
