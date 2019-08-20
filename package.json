@@ -1,0 +1,36 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Base Para Api Express Con Sequelize",
+  "main": "api.js",
+  "scripts": {
+    "iniciar-api-dev": "nodemon api",
+    "iniciar-api-prod": "node api",
+    "start": "npm run iniciar-api-prod",
+    "dev": "npm run iniciar-api-dev"
+  },
+  "author": "Edhine",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-list-endpoints": "^4.0.1",
+    "morgan": "^1.9.1",
+    "node-color-log": "^2.2.0",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.15.0",
+    "sequelize-cli": "^5.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "repository": {
+    "url": "https://github.com/Edhine/base-api-express-sequelize"
+  },
+  "contributors": [
+    "https://github.com/Edhine",
+    "https://www.linkedin.com/in/sergio-andres-orellana-roa/"
+  ]
+}

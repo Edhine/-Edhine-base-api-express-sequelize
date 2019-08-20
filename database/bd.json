@@ -1,0 +1,35 @@
+{
+  "dev": {
+    "username": "username",
+    "password": "password",
+    "database": "database",
+    "host": "host",
+    "dialect": "dialect",
+    "port": "port",
+    "define": {
+      "timestamps": false
+    }
+  },
+  "qa": {
+    "username": "username",
+    "password": "password",
+    "database": "database",
+    "host": "host",
+    "dialect": "dialect",
+    "port": "port",
+    "define": {
+      "timestamps": false
+    }
+  },
+  "production": {
+    "username": "username",
+    "password": "password",
+    "database": "database",
+    "host": "host",
+    "dialect": "dialect",
+    "port": "port",
+    "define": {
+      "timestamps": false
+    }
+  }
+}
