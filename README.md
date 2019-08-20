@@ -126,5 +126,15 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.
 * [Mocha](https://www.npmjs.com/package/mocha) - Paquete para Test sobre la API.
 * Log con archivo.
 
+## Retroalimentación
+
+Todo comentario y correcciones, no dudes en mencionarlas 📢, me ayudas a mejorar este proyecto ❤.
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Da las gracias públicamente 🤓.
+* etc.
+
 ---
 ⌨️ con ❤️ por [Edhine](https://github.com/Edhine) 😊
