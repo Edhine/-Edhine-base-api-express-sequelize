@@ -4,7 +4,7 @@
     "password": "password",
     "database": "database",
     "host": "host",
-    "dialect": "dialect",
+    "dialect": "postgres",
     "port": "port",
     "define": {
       "timestamps": false
@@ -15,7 +15,7 @@
     "password": "password",
     "database": "database",
     "host": "host",
-    "dialect": "dialect",
+    "dialect": "postgres",
     "port": "port",
     "define": {
       "timestamps": false
@@ -26,7 +26,7 @@
     "password": "password",
     "database": "database",
     "host": "host",
-    "dialect": "dialect",
+    "dialect": "postgres",
     "port": "port",
     "define": {
       "timestamps": false
