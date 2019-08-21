@@ -130,6 +130,7 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.
 
 * [Mocha](https://www.npmjs.com/package/mocha) - Paquete para Test sobre la API.
 * Log con archivo.
+* [Helmet](https://www.npmjs.com/package/helmet) - Seguridad para la API.
 
 ## Retroalimentación
 
