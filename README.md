@@ -86,7 +86,7 @@ Para cambiar el dialecto: [aquí](https://sequelize.org/master/manual/getting-st
 [sequelize-auto](https://github.com/sequelize/sequelize-auto) permite mappear las tablas de la base de datos y generar los modelos de forma automatica.
 
 ```
-npm install -g pg@6.4.2
+npm i -g pg@6.4.2
 npm i -g sequelize-auto
 Ejemplo: sequelize-auto -o "./models" -d database -h host -u user -p port -x pass -e dialect -s schema
 ```
