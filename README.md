@@ -1,5 +1,4 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEdhine%2Fbase-api-express-sequelize.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEdhine%2Fbase-api-express-sequelize?ref=badge_shield)
-https://david-dm.org/Edhine/base-api-express-sequelize.svg
 
 # Base Api Express - Sequelize
 
