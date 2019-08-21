@@ -1,4 +1,6 @@
 # Base Api Express - Sequelize
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEdhine%2Fbase-api-express-sequelize.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEdhine%2Fbase-api-express-sequelize?ref=badge_shield)
+
 
 _Este proyecto basado en express, como indica el titulo ser una base para realizar una api de servicios REST con el ORM Sequelize._
 
@@ -125,6 +127,9 @@ npm start
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEdhine%2Fbase-api-express-sequelize.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEdhine%2Fbase-api-express-sequelize?ref=badge_large)
 
 ## Pendientes 📌
 
