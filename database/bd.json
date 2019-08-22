@@ -8,7 +8,8 @@
     "port": "port",
     "define": {
       "timestamps": false
-    }
+    },
+    "schema": "schema"
   },
   "qa": {
     "username": "username",
@@ -19,7 +20,8 @@
     "port": "port",
     "define": {
       "timestamps": false
-    }
+    },
+    "schema": "schema"
   },
   "production": {
     "username": "username",
@@ -30,6 +32,7 @@
     "port": "port",
     "define": {
       "timestamps": false
-    }
+    },
+    "schema": "schema"
   }
 }
