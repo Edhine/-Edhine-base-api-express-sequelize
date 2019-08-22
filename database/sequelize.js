@@ -9,15 +9,9 @@ const fs = require('fs');
 const path = require('path');
 const Sequelize = require('sequelize');
 const baseModelos = path.join(__dirname, '../models/');
-const config = require('./bd.json')[process.env.NODE_ENV];
 const db = {};
 
-let sequelize;
-if (process.env.NODE_ENV === 'production') {
-    sequelize = new Sequelize(process.env.NODE_ENV, config);
-} else {
-    sequelize = new Sequelize(config.database, config.username, config.password, config);
-}
+const sequelize = new Sequelize(require('./bd.json')[process.env.NODE_ENV]);
 
 fs
     .readdirSync(baseModelos)

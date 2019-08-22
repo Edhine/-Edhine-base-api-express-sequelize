@@ -21,6 +21,13 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 /***********************************************
+ *          Seguridad De Las Rutas
+ *         @access REST (Middleware)      
+ **********************************************/
+var helmet = require('helmet');
+app.use(helmet());
+
+/***********************************************
  * Habilitador de Cross-origin resource sharing
  *         @access REST (Middleware)      
  **********************************************/
