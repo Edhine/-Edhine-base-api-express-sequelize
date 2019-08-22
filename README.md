@@ -123,6 +123,7 @@ npm start
 * [sequelize-auto](https://github.com/sequelize/sequelize-auto) - Permite mapear las tablas de la base de datos
 * [pg](https://www.npmjs.com/package/pg) - Cliente Postgres
 * [pg-hstore](https://www.npmjs.com/package/pg-hstore) - Serializando y Deserializando JSON de consultas Postgres
+* [helmet](https://www.npmjs.com/package/helmet) - Seguridad API.
 
 ## Autor ✒️
 
