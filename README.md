@@ -59,7 +59,8 @@ Para cambiar el dialecto: [aquí](https://sequelize.org/master/manual/getting-st
     "port": "port",
     "define": {
       "timestamps": false
-    }
+    },
+    "schema": "schema"
   },
   "qa": {
     "username": "username",
@@ -70,7 +71,8 @@ Para cambiar el dialecto: [aquí](https://sequelize.org/master/manual/getting-st
     "port": "port",
     "define": {
       "timestamps": false
-    }
+    },
+    "schema": "schema"
   },
   "production": {
     "username": "username",
@@ -81,7 +83,8 @@ Para cambiar el dialecto: [aquí](https://sequelize.org/master/manual/getting-st
     "port": "port",
     "define": {
       "timestamps": false
-    }
+    },
+    "schema": "schema"
   }
 }
 ```
@@ -133,7 +136,6 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.
 
 * [Mocha](https://www.npmjs.com/package/mocha) - Paquete para Test sobre la API.
 * Log con archivo.
-* [Helmet](https://www.npmjs.com/package/helmet) - Seguridad para la API.
 
 ## Retroalimentación
 
