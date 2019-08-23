@@ -1,3 +1,4 @@
+[![Donación](https://img.shields.io/badge/Donaciones-Paypal-black)](https://paypal.me/Edhine?locale.x=es_XC)
 ![License](https://img.shields.io/github/license/Edhine/base-api-express-sequelize)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEdhine%2Fbase-api-express-sequelize.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEdhine%2Fbase-api-express-sequelize?ref=badge_shield)
 
